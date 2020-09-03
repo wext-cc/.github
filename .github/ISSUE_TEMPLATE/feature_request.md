@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[]"
-labels: documentation, duplicate, good first issue
-assignees: normal-coder
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
